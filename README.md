@@ -1,2 +1,2 @@
-# hang-man
 Basic JavaScript WebGame
+# contact ilgarshukuroff@gmail.com
